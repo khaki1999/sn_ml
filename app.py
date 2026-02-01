@@ -49,7 +49,7 @@ def load_model():
         st.stop()
         return None
 
-# Chargement des données (optionnel)
+# Chargement des données 
 @st.cache_data
 def load_data():
     """Charge les données d'entraînement si disponibles"""
