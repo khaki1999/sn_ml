@@ -6,7 +6,7 @@ Application Streamlit utilisant le modèle Naïve Bayes pour la prédiction d'ac
 
 ### Guide rapide
 
-1. **Mettre le code sur GitHub** (voir `COMMANDES_GIT.md`)
+1. **Mettre le code sur GitHub**
 2. **Aller sur** https://streamlit.io/cloud
 3. **Se connecter** avec GitHub
 4. **Créer une nouvelle app** :
@@ -15,9 +15,6 @@ Application Streamlit utilisant le modèle Naïve Bayes pour la prédiction d'ac
    - Main file path : `app.py`
 5. **Déployer** !
 
-### Guide détaillé
-
-Consultez `DEPLOIEMENT_STREAMLIT.md` pour les instructions complètes.
 
 ## 📋 Fichiers requis
 
