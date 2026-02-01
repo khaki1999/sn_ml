@@ -1,0 +1,59 @@
+# Python
+
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+
+
+
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Données sensibles (optionnel - décommenter si vous ne voulez pas versionner le CSV)
+# *.csv
+# !AER_credit_card_data.csv
+
+# Fichiers de configuration Docker (optionnel)
+# .dockerignore
+
+COMMANDES_GIT.md
+DEPLOIEMENT_STREAMLIT.md
+README.md
+AMELIORATIONS.md
+FIX_DEPENDENCIES.md
+ANALYSE_PROJET.md
+
